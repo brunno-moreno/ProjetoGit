@@ -1,1 +1,1 @@
-Olá! Nesse projeto apresentarei meus primeiros códigos
+Olá! Nesse projeto apresentarei meus primeiros códigos e espero que possa ajudar aqueles que estiverem iniciando também.
