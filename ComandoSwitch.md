@@ -8,7 +8,7 @@
         /*Criando um pequeno sistema de progresso de meses em 1 ano.*/
 		
 
-        //Início do código5
+        //Início do código
 
 		JOptionPane.showMessageDialog(null, "Progresso de um período de 1 ano");
 		String mes = JOptionPane.showInputDialog(null, "Em qual mês estamos?");
