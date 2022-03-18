@@ -1,6 +1,6 @@
-/*import para utilizar a GUI*/
-import javax.swing.JOptionPane;
-public class HelloWorld {
+/*import para utilizar a GUI*/ ->
+  import javax.swing.JOptionPane;
+
 
 	public static void main(String[] args) {
 		
