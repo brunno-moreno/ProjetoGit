@@ -1,4 +1,7 @@
-/*import para utilizar a GUI*/ ->
+O comando Switch nos permite testar uma variável para avaliar se ela é igual a algum item de uma lista de valores.
+Vejamos um exemplo com os meses do ano:
+
+/*OBS: import para utilizar a GUI*/ ->
   import javax.swing.JOptionPane;
 
 
