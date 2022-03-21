@@ -1,6 +1,9 @@
-/*import para utilizar a GUI*/
-import javax.swing.JOptionPane;
-public class HelloWorld {
+O comando Switch nos permite testar uma variável para avaliar se ela é igual a algum item de uma lista de valores.
+Vejamos um exemplo com os meses do ano:
+
+/*OBS: import para utilizar a GUI*/ ->
+  import javax.swing.JOptionPane;
+
 
 	public static void main(String[] args) {
 		
@@ -8,7 +11,7 @@ public class HelloWorld {
         /*Criando um pequeno sistema de progresso de meses em 1 ano.*/
 		
 
-        //Início do código5
+        //Início do código
 
 		JOptionPane.showMessageDialog(null, "Progresso de um período de 1 ano");
 		String mes = JOptionPane.showInputDialog(null, "Em qual mês estamos?");
