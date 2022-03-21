@@ -1,4 +1,5 @@
 Comando If em Java -> usado para tomada de decisões que podem variar.
+
 *Lembre-se do import para usar o Scanner -> import java.util.Scanner;
 
 Vamos ver um exemplo com um sistema de escola que avalia se o aluno está aprovado ou reprovado, considerando a média necessária como 70 pontos:
