@@ -1,6 +1,9 @@
-import java.util.Scanner;
 
-public class Questao06 {
+
+
+    import java.util.Scanner;
+
+    public class Questao06 {
 
 	/*
 	 * Desenvolver um programa que pergunte o peso de uma pessoa e também
